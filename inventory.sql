@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
---
+-- port 3307
 -- Host: 127.0.0.1
 -- Generation Time: Jun 06, 2022 at 10:21 PM
 -- Server version: 10.4.24-MariaDB
